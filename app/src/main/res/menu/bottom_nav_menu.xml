@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_antropometrico"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_prescricao"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_laudo"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_nutricional"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_receitas"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="" />
+
+</menu>

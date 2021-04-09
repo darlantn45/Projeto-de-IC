@@ -1,0 +1,7 @@
+Copie as alteracoes para a pasta geladeiratel clonada do GitHub,
+para enviar para o Github:
+
+https://github.com/geladeiratel/geladeiratel
+
+Ver GeladeiraProjeto2020/LEIAME.txt as instruçoes para inserir no github,
+usuario e senha do repositorio, etc.

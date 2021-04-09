@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_botoes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BotoesFragment">
+
+    <TableRow>
+    <Button
+        android:id="@+id/button_antropometrico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_botao1" />
+
+    <Button
+        android:id="@+id/button_prescricao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_botao2" />
+    </TableRow>
+
+    <TableRow>
+    <Button
+        android:id="@+id/button_laudo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_botao3" />
+
+    <Button
+        android:id="@+id/button_nutricional"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_botao4" />
+    </TableRow>
+
+    <TableRow>
+    <Button
+        android:id="@+id/button_receitas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_botao5" />
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">geladeira_v5</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="invalid_username">Nome de usuário inválido</string>
+    <string name="invalid_password">Nome de usuário e/ou senha inválido(s)</string>
+    <string name="login_failed">"Login falhou"</string>
+    <string name="esqueci">Esqueceu sua senha?</string>
+
+    <string name="title_activity_fullscreen">@string/app_name</string>
+    <string name="dummy_content">GeladeiraTel</string>
+
+    <string name="todo">Ainda não implementado</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="title_antropometrico">Dados Biométricos</string>
+    <string name="title_prescricao">Prescrição Dietética</string>
+    <string name="title_laudo">Laudo Biométrico</string>
+    <string name="title_nutricional">Orientação Nutricional</string>
+    <string name="title_receitas">Receitas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_botao1">@string/title_antropometrico</string>
+    <string name="fragment_botao2">@string/title_prescricao</string>
+    <string name="fragment_botao3">@string/title_laudo</string>
+    <string name="fragment_botao4">@string/title_nutricional</string>
+    <string name="fragment_botao5">@string/title_receitas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_barra_menu">BarraMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="semsenha">Login sem senha</string>
+    <string name="error_coding">"Erro de codificação"</string>
+    <string name="error_message">"Erro"</string>
+
+</resources>
